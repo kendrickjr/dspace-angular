@@ -127,11 +127,11 @@
   
   // "admin.registries.bitstream-formats.table.delete": "Delete selected",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.table.delete": "Delete selected",
+  "admin.registries.bitstream-formats.table.delete": "Ondoa zilizochaguliwa",
   
   // "admin.registries.bitstream-formats.table.deselect-all": "Deselect all",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.table.deselect-all": "Deselect all",
+  "admin.registries.bitstream-formats.table.deselect-all": "Ondoa zote",
   
   // "admin.registries.bitstream-formats.table.internal": "internal",
   // TODO New key - Add a translation
