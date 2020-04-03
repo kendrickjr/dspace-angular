@@ -42,72 +42,55 @@
   "admin.registries.bitstream-formats.delete.success.head": "Imefanikiwa",
   
   // "admin.registries.bitstream-formats.description": "This list of bitstream formats provides information about known formats and their support level.",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.description": "This list of bitstream formats provides information about known formats and their support level.",
+  "admin.registries.bitstream-formats.description": "Orodha hii ya fomati za file ndogo hutoa habari juu ya fomati zinazojulikana na kiwango cha msaada wao.",
   
   // "admin.registries.bitstream-formats.edit.description.hint": "",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.description.hint": "",
+   "admin.registries.bitstream-formats.edit.description.hint": "",
   
   // "admin.registries.bitstream-formats.edit.description.label": "Description",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.description.label": "Description",
+  "admin.registries.bitstream-formats.edit.description.label": "Maelezo",
   
   // "admin.registries.bitstream-formats.edit.extensions.hint": "Extensions are file extensions that are used to automatically identify the format of uploaded files. You can enter several extensions for each format.",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.extensions.hint": "Extensions are file extensions that are used to automatically identify the format of uploaded files. You can enter several extensions for each format.",
+  "admin.registries.bitstream-formats.edit.extensions.hint": "Viongezeo ni viendelezi vya faili ambavyo hutumiwa kutambua kiotomati muundo wa faili zilizopakiwa. Unaweza kuingiza upanuzi kadhaa kwa kila fomati.",
   
   // "admin.registries.bitstream-formats.edit.extensions.label": "File extensions",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.extensions.label": "File extensions",
+  "admin.registries.bitstream-formats.edit.extensions.label": "kiendelezi(Aina) ya file",
   
   // "admin.registries.bitstream-formats.edit.extensions.placeholder": "Enter a file extenstion without the dot",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.extensions.placeholder": "Enter a file extenstion without the dot",
+  "admin.registries.bitstream-formats.edit.extensions.placeholder": "Ingiza kiendelezi cha faili bila doti",
   
   // "admin.registries.bitstream-formats.edit.failure.content": "An error occurred while editing the bitstream format.",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.failure.content": "An error occurred while editing the bitstream format.",
+  "admin.registries.bitstream-formats.edit.failure.content": "Kosa limetokea wakati wa kuhariri mfumo wa faili",
   
   // "admin.registries.bitstream-formats.edit.failure.head": "Failure",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.failure.head": "Failure",
+  "admin.registries.bitstream-formats.edit.failure.head": "Imeshindikana",
   
   // "admin.registries.bitstream-formats.edit.head": "Bitstream format: {{ format }}",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.head": "Bitstream format: {{ format }}",
+  "admin.registries.bitstream-formats.edit.head": "Aina ya file: {{ format }}",
   
   // "admin.registries.bitstream-formats.edit.internal.hint": "Formats marked as internal are are hidden from the user, and used for administrative purposes.",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.internal.hint": "Formats marked as internal are are hidden from the user, and used for administrative purposes.",
+  "admin.registries.bitstream-formats.edit.internal.hint": "Fomati zilizo alama kama za ndani zimefichwa kuonekana kwa mtumiaji, na hutumiwa kwa madhumuni ya kiutawala.",
   
   // "admin.registries.bitstream-formats.edit.internal.label": "Internal",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.internal.label": "Internal",
+  "admin.registries.bitstream-formats.edit.internal.label": "Ndani",
   
   // "admin.registries.bitstream-formats.edit.mimetype.hint": "The MIME type associated with this format, does not have to be unique.",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.mimetype.hint": "The MIME type associated with this format, does not have to be unique.",
+  "admin.registries.bitstream-formats.edit.mimetype.hint": "Aina ya MIME inayohusishwa na fomati hii, sio lazima iwe ya kipekee.",
   
   // "admin.registries.bitstream-formats.edit.mimetype.label": "MIME Type",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.mimetype.label": "MIME Type",
+  "admin.registries.bitstream-formats.edit.mimetype.label": "Aina ya MIME",
   
   // "admin.registries.bitstream-formats.edit.shortDescription.hint": "A unique name for this format, (e.g. Microsoft Word XP or Microsoft Word 2000)",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.shortDescription.hint": "A unique name for this format, (e.g. Microsoft Word XP or Microsoft Word 2000)",
+  "admin.registries.bitstream-formats.edit.shortDescription.hint": "Jina la kipekee la fomati hii, (e.g. Microsoft Word XP or Microsoft Word 2000)",
   
   // "admin.registries.bitstream-formats.edit.shortDescription.label": "Name",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.shortDescription.label": "Name",
+  "admin.registries.bitstream-formats.edit.shortDescription.label": "Jina",
   
   // "admin.registries.bitstream-formats.edit.success.content": "The bitstream format was successfully edited.",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.success.content": "The bitstream format was successfully edited.",
+  "admin.registries.bitstream-formats.edit.success.content": "Fomati ya bitstream ilibadilishwa kwa mafanikio.",
   
   // "admin.registries.bitstream-formats.edit.success.head": "Success",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.success.head": "Success",
+  "admin.registries.bitstream-formats.edit.success.head": "Imefanikiwa",
   
   // "admin.registries.bitstream-formats.edit.supportLevel.hint": "The level of support your institution pledges for this format.",
   // TODO New key - Add a translation
@@ -115,7 +98,7 @@
   
   // "admin.registries.bitstream-formats.edit.supportLevel.label": "Support level",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.supportLevel.label": "Support level",
+  "admin.registries.bitstream-formats.edit.supportLevel.label": "Kiwango cha Msaada",
   
   // "admin.registries.bitstream-formats.head": "Bitstream Format Registry",
   // TODO New key - Add a translation
